@@ -1,4 +1,4 @@
-// printing full name
+// printing full name to '
 
 exports.name = (req, res) =>{
     res.send('<h1> Ogedengbe Tosin Samuel </h1>');
