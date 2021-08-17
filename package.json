@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "this is a task that contains a resume and a contact page form",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Samuellyworld/HNG-Contact-Form-Task.git"
+  },
+  "author": "Samuel Aspirin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuellyworld/HNG-Contact-Form-Task/issues"
+  },
+  "homepage": "https://github.com/Samuellyworld/HNG-Contact-Form-Task#readme"
+}
