@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Samuellyworld/HNG-Contact-Form-Task/issues"
   },
-  "homepage": "https://github.com/Samuellyworld/HNG-Contact-Form-Task#readme"
+  "homepage": "https://github.com/Samuellyworld/HNG-Contact-Form-Task#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
