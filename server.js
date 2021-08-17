@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
-// getting the full name exports 
+// inporting the full name data 
 const data = require('./number2');
 
 //printing full name data
